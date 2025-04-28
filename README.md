@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do List App 📝
 
 <img src="img/ico.png" alt="To-Do List App" width="35" height="35">
@@ -69,3 +70,4 @@ You can try the To Do List application online by following [this link](https://a
 Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Azim Baji Krishna, at azimbaji19@gmail.com
 
 Happy tasking! 😊
+=======
